@@ -19,6 +19,14 @@ function App() {
 function Home() {
   return (
     <div className="container bg-secondary text-light">
+      <div className='row'>
+        <div className='col-1' />
+        <div className='col-10 card border-secondary bg-secondary'>
+          <img className='card-text' alt='scp statement' src='images/scpAdminMsg.png' />
+        </div>
+        <div className='col-1' />
+      </div>
+      <hr />
       <div className='p-3'>
         <h1>Mission Statement</h1>
         <p>Operating clandestine and worldwide, the Foundation operates beyond jurisdiction, empowered and entrusted by every major national government with the task of containing anomalous objects, entities, and phenomena. Many of these anomalies pose a significant threat to global security by threatening either physical or psychological harm. All of them undermine the natural laws that the people of the world implicitly trust in.
@@ -37,12 +45,6 @@ function Home() {
         <hr />
         <p>Additional information will have been provided upon your joining us in pursuit of our primary missions. Welcome to the Foundation, and good luck.</p>
       </div>
-      <div className=''>
-        <div className='card border-secondary bg-secondary'>
-          <img className='card-body' alt='scp statement' src='images/scpAdminMsg.png' />
-        </div>
-      </div>
-      <hr />
     </div>
   );
 }
