@@ -1,3 +1,6 @@
+# Check out the Website
+Deployed on Netlify https://comp6210-assignment-1-drewtrumbaturi.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
