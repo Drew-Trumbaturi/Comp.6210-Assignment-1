@@ -1,6 +1,5 @@
 import React from 'react';
 import Nav from './Compnents/Nav';
-import Testing from './Compnents/Testing';
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Catalog from './Compnents/Catalog';
 
@@ -11,7 +10,6 @@ function App() {
       <Nav />
         <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/Testing' element={<Testing />} />
           <Route path='/Catalog' element={<Catalog />} />
         </Routes>
     </Router>
