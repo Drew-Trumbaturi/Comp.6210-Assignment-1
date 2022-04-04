@@ -8,7 +8,7 @@ function Catalog() {
                       (scp, index) => {
                       return <div key={index} className="col-11 ms-5 p-3">
                                 <div className="card">
-                                <img src={scp.image} className="card-img-top p-1" alt="scp image"/>
+                                <img src={scp.image} className="card-img-top p-1" alt="scp"/>
                                     <hr />
                                     <div className="card-body p-2">
                                         <h5 className="card-title">Item: {scp.item}</h5>

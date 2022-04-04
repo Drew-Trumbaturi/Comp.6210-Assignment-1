@@ -21,7 +21,7 @@ function App() {
 function Home() {
   return (
     <div className="container bg-secondary text-light">
-        <img className='position-relative start-50 translate-middle-x m-1' src='images/scpAdminMsg.png' />
+        <img className='position-relative start-50 translate-middle-x m-1' alt='scp statement' src='images/scpAdminMsg.png' />
         <hr />
         <div className='m-3 p-3'>
           <h1>Mission Statement</h1>

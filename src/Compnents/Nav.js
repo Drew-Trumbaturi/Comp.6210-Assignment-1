@@ -7,7 +7,7 @@ function Nav() {
             <Link to='/' className='text-white text-decoration-none'>
                 <div className='row'>
                     <div className='col-sm-1'>
-                        <img src='images/Logo.png' />
+                        <img src='images/Logo.png' alt='scp logo'/>
                     </div>
                     <div className='col-sm-11 mt-3'>
                         <h4 className='ms-2'>SCP Foundation</h4>
