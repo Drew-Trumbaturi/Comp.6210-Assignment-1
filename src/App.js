@@ -26,6 +26,7 @@ function Home() {
         The Foundation maintains an extensive database of information regarding anomalies requiring Special Containment Procedures, commonly referred to as "SCPs". The primary database contains summaries of such anomalies and emergency procedures for maintaining or re-establishing safe containment in the case of a containment breach or other event.<br /><br />
         The Foundation operates to maintain normalcy, so that the worldwide civilian population can live and go on with their daily lives without fear, mistrust, or doubt in their personal beliefs, and to maintain human independence from extraterrestrial, extradimensional, and other extranormal influence.
         </p>
+        <hr />
         <h3>Our mission is three-fold:</h3>
         <h5>Secure</h5>
         <p>The Foundation secures anomalies with the goal of preventing them from falling into the hands of civilian or rival agencies, through extensive observation and surveillance and by acting to intercept such anomalies at the earliest opportunity.</p>
